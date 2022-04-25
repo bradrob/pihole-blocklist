@@ -17,7 +17,7 @@ Just add the following lists to your pi-hole.
     https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/porn.txt
   
 ### Warning
-  I included a few aggressive lists which can impact your regular internet browsing experience. I suggest you check the log query & whitelist the queries which case problem on regular browsing.
+  I included a few aggressive lists which can impact your regular internet browsing experience. I suggest you check the log query & whitelist the queries which cause problem on regular browsing.
   
   
 #### The porn.txt includes:
